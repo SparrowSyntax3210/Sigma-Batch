@@ -1,0 +1,25 @@
+body {
+    font-family: 'Franklin Gothic Medium';
+}
+
+p {
+    color: green;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    color: rgb(0, 255, 0);
+    text-decoration: none;
+}
+
+button {
+    background-color: white;
+    color: blueviolet;
+}
+
+span {
+    text-decoration: underline;
+}
