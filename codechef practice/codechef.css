@@ -42,7 +42,11 @@ span {
 
 #image {
     text-align: center;
-    padding: 30px;
+    padding: 40px;
+}
+
+img {
+    width: 100%;
 }
 
 #start {
@@ -62,4 +66,8 @@ header {
     flex-direction: row;
     flex-grow: 3px;
     height: 150px;
+}
+
+table {
+    width: 100%;
 }
