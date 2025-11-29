@@ -1,0 +1,25 @@
+#main {
+    height: 340px;
+    width: 120px;
+    border: solid black;
+}
+
+.light {
+    border: solid black;
+    height: 90px;
+    width: 90px;
+    margin: 10px;
+    border-radius: 50%;
+}
+
+#red {
+    background-color: red;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#green {
+    background-color: green;
+}
