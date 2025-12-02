@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#yellow {
+    height: 300px;
+    width: 300px;
+    background-color: yellow;
+    border-radius: 50%;
+
+}
+
+.left-eyes {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: black;
+    position: absolute;
+    top: 90px;
+    left: 50px;
+}
+
+.right-eyes {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: black;
+    position: absolute;
+    top: 90px;
+    left: 190px;
+}
+
+.mouth {
+    height: 75px;
+    width: 175px;
+    background-color: red;
+    border-radius: 0 0 50% 50%;
+    position: absolute;
+    top: 175px;
+    left: 60px;
+}
